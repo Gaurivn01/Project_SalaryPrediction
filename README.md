@@ -1,4 +1,4 @@
-SALARY PREDICTION APP
+# SALARY PREDICTION APP
 
 Description
 The Salary Prediction App is an interactive web application built using Streamlit and Python.
@@ -21,12 +21,11 @@ Features
 
 Installation Instruction
   1. Clone the Repository:
-      git clone https://github.com/your-username/salary-prediction-app.git
-      cd salary-prediction-app
+      git clone https://github.com/Gaurivn01/salaryprediction.git
+      cd salaryprediction
 
   2. Create a Virtual Environment and Activate It:
       python -m venv env
-      # On Windows
       .\env\Scripts\activate
 
   3. Install the Required Packages:
