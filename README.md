@@ -1,9 +1,9 @@
 # SALARY PREDICTION APP
 
 Description
-The Salary Prediction App is an interactive web application built using Streamlit and Python.
-This app predicts the salary of an employee based on their age and years of experience using a linear regression model. 
-It provides a user-friendly interface to input data and visualize the results through scatter plots and heatmaps.
+The Salary Prediction App is an interactive web application built using Streamlit and Python.<br>
+This app predicts the salary of an employee based on their age and years of experience using a linear regression model. <br>
+It provides a user-friendly interface to input data and visualize the results through scatter plots and heatmaps.<br>
 
 Features
   -Data Loading and Caching: 
