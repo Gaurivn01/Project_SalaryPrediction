@@ -22,7 +22,7 @@ Features
 Installation Instruction
   1. Clone the Repository:<br>
       git clone https://github.com/Gaurivn01/salaryprediction.git<br>
-      cd salaryprediction<br><br>
+      cd salaryprediction<br>
 
   2. Create a Virtual Environment and Activate It:<br>
       python -m venv env<br>
