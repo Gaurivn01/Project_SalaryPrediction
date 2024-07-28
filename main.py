@@ -10,7 +10,7 @@ import seaborn as sns
 # Load the dataset
 @st.cache_data  # Cache the dataset to improve app performance
 def load_data():
-    data = pd.read_csv("C:\\Users\\gauri\\OneDrive\\Desktop\\Salary_Data.csv")
+    data = pd.read_csv("Salary_Data.csv")
     return data
 
 # Preprocess the data and train the model
